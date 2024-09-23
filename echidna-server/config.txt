@@ -1,0 +1,23 @@
+# Server name
+name &4Echidna Server
+# Server message
+motd Programmed by &cThe Echidna Tribe
+# Port to host on
+port 25565
+# Max number of players
+max_players 16
+# 0 to not send a heartbeat
+# (connect by IP URL)
+heartbeat 1
+# 1 for it to be listed
+# Automatically 0 if heartbeat is 0.
+public 1
+# Verify names
+# Automatically 0 if heartbeat is 0.
+verify 1
+# How many minutes between automatic time backups
+backup_time 10
+# Ignore hacking attempts if 1, kick for hacking if 0
+hacks 0
+# Which map to load
+map flatgrass1
